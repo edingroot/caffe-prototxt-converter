@@ -1,0 +1,32 @@
+type: DATA
+type: "Data"
+
+type: CONVOLUTION
+type: "Convolution"
+
+type: RELU
+type: "ReLU"
+
+type: POOLING
+type: "Pooling"
+
+type: DROPOUT
+type: "Dropout"
+
+type: DECONVOLUTION
+type: "Deconvolution"
+
+type: CROP
+type: "Crop"
+
+type: ELTWISE
+type: "Eltwise"
+
+type: SPLIT
+type: "Split"
+
+type: MULTI_STAGE_MEANFIELD
+type: "MultiStageMeanfield"
+
+type: SOFTMAX_LOSS
+type: "SoftmaxWithLoss"
